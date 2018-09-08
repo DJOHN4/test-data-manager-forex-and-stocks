@@ -1,0 +1,1 @@
+# test-data-manager-forex-and-stocks
